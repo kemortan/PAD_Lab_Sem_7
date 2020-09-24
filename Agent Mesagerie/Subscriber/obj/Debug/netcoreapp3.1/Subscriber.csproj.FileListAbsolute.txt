@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\Univer\Sem 7\PAD\PAD_Lab_Sem_7\Agent Mesagerie\Subscriber\bin\Debug\netcoreapp3.1\Subscriber.exe
+C:\Users\User\Desktop\Univer\Sem 7\PAD\PAD_Lab_Sem_7\Agent Mesagerie\Subscriber\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Univer\Sem 7\PAD\PAD_Lab_Sem_7\Agent Mesagerie\Subscriber\bin\Debug\netcoreapp3.1\Common.dll
+C:\Users\User\Desktop\Univer\Sem 7\PAD\PAD_Lab_Sem_7\Agent Mesagerie\Subscriber\bin\Debug\netcoreapp3.1\Common.pdb
+C:\Users\User\Desktop\Univer\Sem 7\PAD\PAD_Lab_Sem_7\Agent Mesagerie\Subscriber\obj\Debug\netcoreapp3.1\Subscriber.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Univer\Sem 7\PAD\PAD_Lab_Sem_7\Agent Mesagerie\Subscriber\obj\Debug\netcoreapp3.1\Subscriber.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Univer\Sem 7\PAD\PAD_Lab_Sem_7\Agent Mesagerie\Subscriber\obj\Debug\netcoreapp3.1\Subscriber.AssemblyInfo.cs
+C:\Users\User\Desktop\Univer\Sem 7\PAD\PAD_Lab_Sem_7\Agent Mesagerie\Subscriber\obj\Debug\netcoreapp3.1\Subscriber.csproj.CopyComplete
+C:\Users\User\Desktop\Univer\Sem 7\PAD\PAD_Lab_Sem_7\Agent Mesagerie\Subscriber\bin\Debug\netcoreapp3.1\Subscriber.deps.json
+C:\Users\User\Desktop\Univer\Sem 7\PAD\PAD_Lab_Sem_7\Agent Mesagerie\Subscriber\bin\Debug\netcoreapp3.1\Subscriber.runtimeconfig.json
+C:\Users\User\Desktop\Univer\Sem 7\PAD\PAD_Lab_Sem_7\Agent Mesagerie\Subscriber\bin\Debug\netcoreapp3.1\Subscriber.runtimeconfig.dev.json
+C:\Users\User\Desktop\Univer\Sem 7\PAD\PAD_Lab_Sem_7\Agent Mesagerie\Subscriber\bin\Debug\netcoreapp3.1\Subscriber.dll
+C:\Users\User\Desktop\Univer\Sem 7\PAD\PAD_Lab_Sem_7\Agent Mesagerie\Subscriber\bin\Debug\netcoreapp3.1\Subscriber.pdb
+C:\Users\User\Desktop\Univer\Sem 7\PAD\PAD_Lab_Sem_7\Agent Mesagerie\Subscriber\obj\Debug\netcoreapp3.1\Subscriber.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Univer\Sem 7\PAD\PAD_Lab_Sem_7\Agent Mesagerie\Subscriber\obj\Debug\netcoreapp3.1\Subscriber.dll
+C:\Users\User\Desktop\Univer\Sem 7\PAD\PAD_Lab_Sem_7\Agent Mesagerie\Subscriber\obj\Debug\netcoreapp3.1\Subscriber.pdb
+C:\Users\User\Desktop\Univer\Sem 7\PAD\PAD_Lab_Sem_7\Agent Mesagerie\Subscriber\obj\Debug\netcoreapp3.1\Subscriber.genruntimeconfig.cache

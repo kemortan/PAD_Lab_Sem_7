@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\Новая папка (2)\\PAD_Lab.1\\Agent Mesagerie\\ClassLibrary1\\Common.csproj": {}
+    "C:\\Users\\User\\Desktop\\Univer\\Sem 7\\PAD\\PAD_Lab_Sem_7\\Agent Mesagerie\\ClassLibrary1\\Common.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\Новая папка (2)\\PAD_Lab.1\\Agent Mesagerie\\ClassLibrary1\\Common.csproj": {
+    "C:\\Users\\User\\Desktop\\Univer\\Sem 7\\PAD\\PAD_Lab_Sem_7\\Agent Mesagerie\\ClassLibrary1\\Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\Новая папка (2)\\PAD_Lab.1\\Agent Mesagerie\\ClassLibrary1\\Common.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\Univer\\Sem 7\\PAD\\PAD_Lab_Sem_7\\Agent Mesagerie\\ClassLibrary1\\Common.csproj",
         "projectName": "Common",
-        "projectPath": "C:\\Users\\User\\Desktop\\Новая папка (2)\\PAD_Lab.1\\Agent Mesagerie\\ClassLibrary1\\Common.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\Univer\\Sem 7\\PAD\\PAD_Lab_Sem_7\\Agent Mesagerie\\ClassLibrary1\\Common.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\Новая папка (2)\\PAD_Lab.1\\Agent Mesagerie\\ClassLibrary1\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\Univer\\Sem 7\\PAD\\PAD_Lab_Sem_7\\Agent Mesagerie\\ClassLibrary1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VFkfXup7+Mt/X+WsIMemMVP0DgDOveLg7z61C88Oi9bi7psbt0mZ2hjEdzyBivA0MdG94X1zFuQp4Ww0K9c3uw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\Desktop\\Univer\\Sem 7\\PAD\\PAD_Lab_Sem_7\\Agent Mesagerie\\Subscriber\\Subscriber.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

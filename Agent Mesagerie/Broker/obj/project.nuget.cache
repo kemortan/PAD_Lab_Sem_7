@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PzgkUSzPqCfhM8vq35iinuG/LJ8e7laZHfjJ35a2VXo2Q6hYlkz2knJj0Z+fMRzxI0d0M2zuf2tEnNbTJtleag==",
+  "dgSpecHash": "b8OVuSBi3WP+0zMSoVwma7IC5ZDOkfP03NGzxjQ4acfsuC4wZLkxIy4kiqzlCdKFLYQUUw+Uf5XNmlFLfOrd8g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\Desktop\\Новая папка (2)\\PAD_Lab.1\\Agent Mesagerie\\Broker\\Broker.csproj",
+  "projectFilePath": "C:\\Users\\User\\Desktop\\Univer\\Sem 7\\PAD\\PAD_Lab_Sem_7\\Agent Mesagerie\\Broker\\Broker.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
   ],

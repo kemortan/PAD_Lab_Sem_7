@@ -32,3 +32,20 @@ C:\Users\User\Desktop\Новая папка (2)\PAD_Lab.1\Agent Mesagerie\Publis
 C:\Users\User\Desktop\Новая папка (2)\PAD_Lab.1\Agent Mesagerie\Publisher\obj\Debug\netcoreapp3.1\Publisher.dll
 C:\Users\User\Desktop\Новая папка (2)\PAD_Lab.1\Agent Mesagerie\Publisher\obj\Debug\netcoreapp3.1\Publisher.pdb
 C:\Users\User\Desktop\Новая папка (2)\PAD_Lab.1\Agent Mesagerie\Publisher\obj\Debug\netcoreapp3.1\Publisher.genruntimeconfig.cache
+C:\Users\User\Desktop\Univer\Sem 7\PAD\PAD_Lab_Sem_7\Agent Mesagerie\Publisher\bin\Debug\netcoreapp3.1\Publisher.exe
+C:\Users\User\Desktop\Univer\Sem 7\PAD\PAD_Lab_Sem_7\Agent Mesagerie\Publisher\bin\Debug\netcoreapp3.1\Publisher.deps.json
+C:\Users\User\Desktop\Univer\Sem 7\PAD\PAD_Lab_Sem_7\Agent Mesagerie\Publisher\bin\Debug\netcoreapp3.1\Publisher.runtimeconfig.json
+C:\Users\User\Desktop\Univer\Sem 7\PAD\PAD_Lab_Sem_7\Agent Mesagerie\Publisher\bin\Debug\netcoreapp3.1\Publisher.runtimeconfig.dev.json
+C:\Users\User\Desktop\Univer\Sem 7\PAD\PAD_Lab_Sem_7\Agent Mesagerie\Publisher\bin\Debug\netcoreapp3.1\Publisher.dll
+C:\Users\User\Desktop\Univer\Sem 7\PAD\PAD_Lab_Sem_7\Agent Mesagerie\Publisher\bin\Debug\netcoreapp3.1\Publisher.pdb
+C:\Users\User\Desktop\Univer\Sem 7\PAD\PAD_Lab_Sem_7\Agent Mesagerie\Publisher\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Univer\Sem 7\PAD\PAD_Lab_Sem_7\Agent Mesagerie\Publisher\bin\Debug\netcoreapp3.1\Common.dll
+C:\Users\User\Desktop\Univer\Sem 7\PAD\PAD_Lab_Sem_7\Agent Mesagerie\Publisher\bin\Debug\netcoreapp3.1\Common.pdb
+C:\Users\User\Desktop\Univer\Sem 7\PAD\PAD_Lab_Sem_7\Agent Mesagerie\Publisher\obj\Debug\netcoreapp3.1\Publisher.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Univer\Sem 7\PAD\PAD_Lab_Sem_7\Agent Mesagerie\Publisher\obj\Debug\netcoreapp3.1\Publisher.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Univer\Sem 7\PAD\PAD_Lab_Sem_7\Agent Mesagerie\Publisher\obj\Debug\netcoreapp3.1\Publisher.AssemblyInfo.cs
+C:\Users\User\Desktop\Univer\Sem 7\PAD\PAD_Lab_Sem_7\Agent Mesagerie\Publisher\obj\Debug\netcoreapp3.1\Publisher.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Univer\Sem 7\PAD\PAD_Lab_Sem_7\Agent Mesagerie\Publisher\obj\Debug\netcoreapp3.1\Publisher.csproj.CopyComplete
+C:\Users\User\Desktop\Univer\Sem 7\PAD\PAD_Lab_Sem_7\Agent Mesagerie\Publisher\obj\Debug\netcoreapp3.1\Publisher.dll
+C:\Users\User\Desktop\Univer\Sem 7\PAD\PAD_Lab_Sem_7\Agent Mesagerie\Publisher\obj\Debug\netcoreapp3.1\Publisher.pdb
+C:\Users\User\Desktop\Univer\Sem 7\PAD\PAD_Lab_Sem_7\Agent Mesagerie\Publisher\obj\Debug\netcoreapp3.1\Publisher.genruntimeconfig.cache
