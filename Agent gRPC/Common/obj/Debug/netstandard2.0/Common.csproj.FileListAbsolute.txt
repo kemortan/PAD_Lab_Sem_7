@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\Univer\Sem 7\PAD\PAD_Lab_Sem_7\Agent gRPC\Common\bin\Debug\netstandard2.0\Common.deps.json
+C:\Users\User\Desktop\Univer\Sem 7\PAD\PAD_Lab_Sem_7\Agent gRPC\Common\bin\Debug\netstandard2.0\Common.dll
+C:\Users\User\Desktop\Univer\Sem 7\PAD\PAD_Lab_Sem_7\Agent gRPC\Common\bin\Debug\netstandard2.0\Common.pdb
+C:\Users\User\Desktop\Univer\Sem 7\PAD\PAD_Lab_Sem_7\Agent gRPC\Common\obj\Debug\netstandard2.0\Common.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Univer\Sem 7\PAD\PAD_Lab_Sem_7\Agent gRPC\Common\obj\Debug\netstandard2.0\Common.AssemblyInfo.cs
+C:\Users\User\Desktop\Univer\Sem 7\PAD\PAD_Lab_Sem_7\Agent gRPC\Common\obj\Debug\netstandard2.0\Common.dll
+C:\Users\User\Desktop\Univer\Sem 7\PAD\PAD_Lab_Sem_7\Agent gRPC\Common\obj\Debug\netstandard2.0\Common.pdb
+C:\Users\User\Desktop\Univer\Sem 7\PAD\PAD_Lab_Sem_7\Agent gRPC\Common\obj\Debug\netstandard2.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Univer\Sem 7\PAD\PAD_Lab_Sem_7\Agent gRPC\Common\obj\Debug\netstandard2.0\Common.csprojAssemblyReference.cache

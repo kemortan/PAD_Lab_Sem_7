@@ -1,0 +1,2 @@
+obj\Debug\netstandard2.0\Protos/Nitify.cs \
+obj\Debug\netstandard2.0\Protos/NitifyGrpc.cs: Protos/nitify.proto
