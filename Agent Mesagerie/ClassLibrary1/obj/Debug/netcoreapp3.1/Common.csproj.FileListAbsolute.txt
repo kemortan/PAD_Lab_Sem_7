@@ -19,7 +19,6 @@ C:\Users\User\Desktop\Новая папка (2)\PAD_Lab.1\Agent Mesagerie\ClassL
 C:\Users\User\Desktop\Univer\Sem 7\PAD\PAD_Lab_Sem_7\Agent Mesagerie\ClassLibrary1\bin\Debug\netcoreapp3.1\Common.deps.json
 C:\Users\User\Desktop\Univer\Sem 7\PAD\PAD_Lab_Sem_7\Agent Mesagerie\ClassLibrary1\bin\Debug\netcoreapp3.1\Common.dll
 C:\Users\User\Desktop\Univer\Sem 7\PAD\PAD_Lab_Sem_7\Agent Mesagerie\ClassLibrary1\bin\Debug\netcoreapp3.1\Common.pdb
-C:\Users\User\Desktop\Univer\Sem 7\PAD\PAD_Lab_Sem_7\Agent Mesagerie\ClassLibrary1\obj\Debug\netcoreapp3.1\Common.csprojAssemblyReference.cache
 C:\Users\User\Desktop\Univer\Sem 7\PAD\PAD_Lab_Sem_7\Agent Mesagerie\ClassLibrary1\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
 C:\Users\User\Desktop\Univer\Sem 7\PAD\PAD_Lab_Sem_7\Agent Mesagerie\ClassLibrary1\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
 C:\Users\User\Desktop\Univer\Sem 7\PAD\PAD_Lab_Sem_7\Agent Mesagerie\ClassLibrary1\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
